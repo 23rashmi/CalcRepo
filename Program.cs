@@ -18,3 +18,6 @@ calc.Mul(13.2, 15.8);
 
 Console.WriteLine("Division Call");
 calc.Div(15, 3);
+
+Console.WriteLine("Subtraction call");
+calc.Sub(10, 2);
