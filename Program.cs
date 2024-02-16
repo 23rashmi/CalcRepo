@@ -15,3 +15,6 @@ calc.Add(12, 45);
 
 Console.WriteLine("Multiply Call");
 calc.Mul(13.2, 15.8);
+
+Console.WriteLine("Division Call");
+calc.Div(15, 3);
