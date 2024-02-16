@@ -12,3 +12,6 @@ using CalcExample;
 Calc calc = new Calc();
 Console.WriteLine("Add Call");
 calc.Add(12, 45);
+
+Console.WriteLine("Multiply Call");
+calc.Mul(13.2, 15.8);
