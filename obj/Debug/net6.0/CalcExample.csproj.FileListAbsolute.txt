@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.exe
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.deps.json
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.dll
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.pdb
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.dll
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExample.dll
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
