@@ -21,3 +21,6 @@ calc.Div(15, 3);
 
 Console.WriteLine("Subtraction call");
 calc.Sub(10, 2);
+
+Console.WriteLine("Average call");
+calc.Avg(10.8, 2.5);
